@@ -34,6 +34,9 @@ WRYD is the answer to that question.
 <img width="1365" height="767" alt="Cuplikan layar 2026-01-11 190109" src="https://github.com/user-attachments/assets/755214dc-34ce-4748-9d04-beff8a08a211" />
 <img width="1365" height="767" alt="Cuplikan layar 2026-01-11 185726" src="https://github.com/user-attachments/assets/3f2ef20e-015b-4aab-bca4-f7416729c690" />
 <img width="1365" height="767" alt="Cuplikan layar 2026-01-11 185829" src="https://github.com/user-attachments/assets/d9d80be5-d29c-4184-a08d-dec55dbc79f7" />
+<img width="1365" height="767" alt="Screenshot 2026-01-17 152737" src="https://github.com/user-attachments/assets/e1423b57-ff01-4547-b2ce-0e02f79c89bf" />
+
+
 ---
 
 
