@@ -1,8 +1,9 @@
 {
-    "version": "3.5.7",
-    "notes": "update internal path profile"
+    "version": "3.6.0",
+    "notes": "backup/restore profile"
 
 }
+
 
 
 
