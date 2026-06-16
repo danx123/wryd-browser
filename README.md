@@ -32,7 +32,10 @@ WRYD is the answer to that question.
 ---
 📸 Screenshot
 <img width="1365" height="767" alt="Cuplikan layar 2026-01-11 190109" src="https://github.com/user-attachments/assets/755214dc-34ce-4748-9d04-beff8a08a211" />
-<img width="1365" height="767" alt="Screenshot 2026-02-05 024830" src="https://github.com/user-attachments/assets/9c61b8b0-4a69-4793-a6e2-8e19b0be70bb" />
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8ebb415a-50b1-4a40-b9ee-23f6a416cdd7" />
+
+
 <img width="1106" height="684" alt="Screenshot 2026-04-20 113429" src="https://github.com/user-attachments/assets/515183db-e9e7-4407-bda2-7ebe81bd4510" />
 
 
